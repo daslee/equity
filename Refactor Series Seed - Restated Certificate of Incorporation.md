@@ -43,8 +43,6 @@ The address of the registered office of the Corporation in the State of Delaware
 
 As used in this Restated Certificate (the "Restated Certificate"), the following terms have the meanings set forth below:
 
-“Board Composition” means that for so long as at least 25% of the initially issued shares of Preferred Stock remain outstanding, the holders of record of the shares of Series Seed Preferred Stock exclusively and as a separate class, are entitled to elect [Preferred Directors] director(s) of the Corporation (the “Series Seed Director(s)”), the holders of record of the shares of Common Stock, exclusively and as a separate class, shall be entitled to elect [Common Directors] director(s) of the Corporation, and any additional directors will elected by the affirmative vote of a majority of the Preferred Stock and Common Stock, voting together as a single class on an as-converted basis. For administrative convenience, the initial Series Seed Director may also be appointed by the Board in connection with the approval of the initial issuance of Series Seed Preferred Stock without a separate action by the holders of a majority of Series Seed Preferred Stock. 
-
 “Original Issue Price” means $[Price] per share for the Series Seed Preferred Stock.  
 
 “Requisite Holders” means the holders of at least a majority of the outstanding shares of Preferred Stock (voting as a single class on an as-converted basis). 
@@ -98,10 +96,8 @@ The funds and assets deemed paid or distributed to the holders of capital stock 
 ##### 2.1 General.  
 On any matter presented to the stockholders of the Corporation for their action or consideration at any meeting of stockholders of the Corporation (or by written consent of stockholders in lieu of meeting), each holder of outstanding shares of Preferred Stock may cast the number of votes equal to the number of whole shares of Common Stock into which the shares of Preferred Stock held by such holder are convertible as of the record date for determining stockholders entitled to vote on such matter.  Fractional votes shall not be permitted and any fractional voting rights available on an as-converted basis (after aggregating all shares into which shares of Preferred stock held by each holder could be converted) will be rounded to the nearest whole number (with one-half being rounded upward).  Except as provided by law or by the other provisions of this Restated Certificate, holders of Preferred Stock shall vote together with the holders of Common Stock as a single class on an as-converted basis, shall have full voting rights and powers equal to the voting rights and powers of the holders of Common Stock, and shall be entitled, notwithstanding any provision of this Restated Certificate, to notice of any stockholder meeting in accordance with the Bylaws of the Corporation.   
  
-##### 2.2 Election of Directors.  
-The holders of record of the Company's capital stock are entitled to elect directors as described in the Board Composition.  Any director elected as provided in the preceding sentence may be removed without cause by the affirmative vote of the holders of the shares of the class, classes, or series of capital stock entitled to elect the director or directors, given either at a special meeting of the stockholders duly called for that purpose or pursuant to a written consent of stockholders.  At any meeting held for the purpose of electing a director, the presence in person or by proxy of the holders of a majority of the outstanding shares of the class, classes, or series entitled to elect the director constitutes a quorum for the purpose of electing the director.
 
-##### 2.3 Preferred Stock Protective Provisions.
+##### 2.2 Preferred Stock Protective Provisions.
 At any time when at least 25% of the initially issued shares of Preferred Stock remain outstanding, the Corporation shall not, either directly or indirectly by amendment, merger, consolidation or otherwise, do any of the following without (in addition to any other vote required by law or the Restated Certificate) the written consent or affirmative vote of the Requisite Holders, given in writing or by vote at a meeting, consenting, or voting (as the case may be) separately as a single class:
 
 (a)	alter the rights, powers or privileges of the Preferred Stock set forth in the Restated Certificate or Bylaws, as then in effect, in a way that adversely affects the Preferred Stock;
@@ -112,11 +108,7 @@ At any time when at least 25% of the initially issued shares of Preferred Stock 
 
 (d)	redeem or repurchase any shares of Common Stock or Preferred Stock (other than pursuant to employee or consultant agreements giving the Corporation the right to repurchase shares upon the termination of services pursuant to the terms of the applicable agreement);
 
-(e)	declare or pay any dividend or otherwise make a distribution to holders of Preferred Stock or Common Stock;  
-
-(f)	increase or decrease the number of directors of the Corporation;  
-
-(g)	liquidate, dissolve, or wind-up the business and affairs of the Corporation, effect any Deemed Liquidation Event, or consent, agree or commit to do any of the foregoing without conditioning such consent, agreement or commitment upon obtaining the approval required by this Section 2.3.
+(e)	declare or pay any dividend or otherwise make a distribution to holders of Preferred Stock or Common Stock.  
 
 #### 3. Conversion.  
 
